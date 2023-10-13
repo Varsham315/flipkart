@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productId": "1234",
+      "title": "watch",
+      "brand": "fastrack",
+      "price": "20000",
+      "description": "best watch",
+      "thumbnail": "http://watch.com",
+      "id": 1
+    }
+  ]
+}
